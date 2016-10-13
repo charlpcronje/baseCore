@@ -1,0 +1,15 @@
+/.gitignore
+/.brackets.json
+/.baseCore-waWebsite.XML
+/.baseCore-waWebsite.data
+/.baseCore-waWebsite.rjpcfg
+/.baseCore-weWebsite.rjproj
+/.baseCore-waWebsite.iml
+/.baseCore.komodoproject
+/.idea/
+/.history/
+/baseCore-waWebsite.XML
+/baseCore-waWebsite.data
+/baseCore-waWebsite.rjpcfg
+/baseCore-waWebsite.rjproj
+/baseCore.iml
